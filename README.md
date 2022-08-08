@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiagenwa
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data Engineering by IBM in Coursera.
+- 🌱 I’m currently learning programming at freeCodeCamp
 - 📫 Reach me at: kiagenwa@gmail.com
 
 <!---
